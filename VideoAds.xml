@@ -7,7 +7,13 @@
         <Creative>
           <Linear>
             <Duration>00:00:05</Duration>
+<VideoClicks>
 
+              <ClickThrough>https://shope.ee/4pdNvqk4vo</ClickThrough>
+
+              <ClickTracking>https://shope.ee/4pdNvqk4vo?r=[REGULATIONS]&gdpr=[GDPRCONSENT]&pu=[PAGEURL]&da=[DEVICEUA]</ClickTracking>
+
+            </VideoClicks>
           
             <MediaFiles>
               <MediaFile a href="https://shope.ee/4pdNvqk4vo" type="video/mp4" bitrate="300" width="640" height="360">

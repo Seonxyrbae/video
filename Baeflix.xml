@@ -1,0 +1,23 @@
+<VAST version="2.0">
+  <Ad id="static">
+    <InLine>
+      <AdSystem>Static VAST Template</AdSystem>
+      <AdTitle>Static VAST Tag</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:07</Duration>
+            <VideoClicks>
+              <ClickThrough>https://youtu.be/XNMGg0tl3xM</ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile type="video/mp4" bitrate="300" width="640" height="360">
+			   https://asdrive.biz.id/stream/720/tUrPqZXBbjFV3fX.mp4
+              </MediaFile>
+            </MediaFiles>
+           </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
